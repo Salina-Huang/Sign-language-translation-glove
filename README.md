@@ -26,6 +26,8 @@ This firmware implements a sophisticated gesture recognition system for a sign l
 - ESP32-N16R8 (Dual-core, Built-in BLE)
 - 4.7V LiPo Battery with Type-C Charging
 
+![PCB](PCB.png)
+
 ## COMMUNICATION LAYER
 - BLE 5.0 → Mobile App (Flutter/Dart)
 - Serial Output → Debug & Calibration

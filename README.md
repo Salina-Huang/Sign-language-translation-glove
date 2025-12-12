@@ -82,3 +82,5 @@ Mobile Interface: Flutter app for gesture display and history
 - Comparison between baseline and optimized versions
 - Bluetooth connection reliability testing
 
+## Video Display
+[Watch Video](Muddleasy_eduhk.mp4)
